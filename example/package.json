@@ -6,6 +6,7 @@
   "author": "Egor A Trubnikov-Panov",
   "license": "MIT",
   "devDependencies": {
-    "gulp": "^3.9.0"
+    "gulp": "^3.9.0",
+    "gulp-rj": "^1.0.0"
   }
 }
