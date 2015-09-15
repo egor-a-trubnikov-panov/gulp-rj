@@ -1,15 +1,15 @@
 {
   "name": "gulp-rj",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/egor-a-trubnikov-panov/gulp-rj",
-  "description": "For [jadejs/react-jade](https://github.com/jadejs/react-jade \"jadejs/react-jade\")",
+  "description": "react-jade for gulp",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Egor A Trubnikov-Panov",
   "license": "MIT",
-  "devDependencies": {
+  "dependencies": {
     "gulp-util": "^3.0.6",
     "react": "^0.13.3",
     "react-jade": "^2.4.0",
