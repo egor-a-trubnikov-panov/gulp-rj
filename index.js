@@ -20,7 +20,7 @@ function gulpRJ(options) {
 				{globalReact: true}
 			).toString();
 			file.contents = new Buffer(
-				'module.exports = function() {return ' + templateString + ';};'
+				'module.exports = ' + templateString + ';'
 			);
 			file.path = replaceExt(file.path, '.js');
 			this.push(file);
