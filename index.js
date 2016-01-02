@@ -33,6 +33,6 @@ function gulpRJ(options) {
 
 		return callback();
 	});
-};
+}
 
 module.exports = gulpRJ;
