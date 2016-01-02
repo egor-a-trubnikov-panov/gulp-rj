@@ -2,10 +2,10 @@ Gulp RJ
 =======
 react-jade for gulp
 
-#Installation:
+## Installation:
 `npm i gulp-rj`
 
-#Usage
+## Usage
 
 ```
   var gulp = require('gulp');
@@ -20,5 +20,5 @@ react-jade for gulp
 
 ```          
 
-#License
+## License
 MIT

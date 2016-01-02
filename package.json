@@ -1,6 +1,6 @@
 {
   "name": "gulp-rj",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "homepage": "https://github.com/egor-a-trubnikov-panov/gulp-rj",
   "description": "react-jade for gulp",
   "main": "index.js",
